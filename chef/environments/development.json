@@ -1,0 +1,27 @@
+{
+  "name": "development",
+  "description": "",
+  "default_attributes": {
+
+    "pinky": {
+      "next_course": {
+        "username": "clyde0",
+        "passwd":   "clyde0"
+      }
+    },
+       
+    "clyde": {
+      "next_course": {
+        "username": "blinky0",
+        "passwd":   "blinky0"
+      }
+    },
+       
+    "blinky": {
+    }
+    
+  },
+    
+  "chef_type": "environment",
+  "json_class": "Chef::Environment"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "production",
+  "description": "",
+  "default_attributes": {
+
+    "pinky": {
+      "passwd": {
+        "0":  "pinky0",
+        "1":  "62p98ZYdzL7xWPO80D7P",
+        "2":  "q7RDxNhJMrghaRVce1XY",
+        "3":  "V4qXkK239K497111QzVv",
+        "4":  "o497m9d65D5417p2r7vL",
+        "5":  "zu6hw77j82YJ3bjmdGnR",
+        "6":  "4LSPD93h8nM7056I8SrL",
+        "7":  "66m025JUB965hT5Fsa0Z",
+        "8":  "1h8gX8M2c3ltX52d4U3u",
+        "9":  "R0X196z32t80A90d10zs",
+        "10": "HqIxWEQC0bsycC6cg5gz",
+        "11": "g3wA8mzI65G1s7n7So9K",
+        "12": "AtTP8iJReNQqHubGID1Q",
+        "13": "SnyeEMuBIgEA7gFwnsSz",
+        "14": "61e5k0613683OIw67WXH",
+        "15": "R002696qgj2v71Q491Wk"
+      },
+      "next_course": {
+        "username": "clyde0",
+        "passwd":   "clyde0"
+      }
+    },
+
+    "clyde": {
+      "passwd": {
+        "0":  "clyde0",
+        "1":  "72hK895ea0V73e5TTjqq",
+        "2":  "K95jx8w0Df797GdMH1nH",
+        "3":  "Fpjh0tuaP96z14DuGcdd",
+        "4":  "zXw9f1HnxWTf7ILMXCDG",
+        "5":  "W57bDmFfVfQKkF0MYliU",
+        "6":  "RDx5svSK3qytUyXwYSdA",
+        "7":  "49189eJ02vy76hz5x67H",
+        "8":  "19AzI5pigyex7R2jhT8b",
+        "9":  "HIYMQmdVcho9pbAWmz1f",
+        "10": "966659mL80V358V8o0Rl",
+        "11": "56jK289ui0xVDAdd80Cd",
+        "12": "PM3WB0PLE8bsBM1a0kRG",
+        "13": "C0AiO5tO6gzlwF1fe12f",
+        "14": "LsngfcNDn67jmc94O9HE",
+        "15": "Zcvi6hKLkTNDwBlYmEgU"
+      },
+      "next_course": {
+        "username": "blinky0",
+        "passwd":   "blinky0"
+      }
+    },
+
+    "blinky": {
+      "passwd": {
+        "0": "blinky0",
+        "1":  "7BOQdV1aT6eNlqVpJk7u",
+        "2":  "n1qS5bPhSuUA738o101z",
+        "3":  "6Wp4jZ897B93tg0e7A9T",
+        "4":  "Z2241079u6l71501s3gk",
+        "5":  "i04r0jqLcKTNz3JM4aOt",
+        "6":  "819G9XJWjP6189R333gI",
+        "7":  "775K6Xa1rtOs3084sS1q",
+        "8":  "8ya2kvi8494Y5x6p1w6H",
+        "9":  "eGNv9530Vda2u2063PYl",
+        "10": "Y4X24iP639M03PCOY9rt",
+        "11": "Sv7zdmNaQGxlmEhQEvjw",
+        "12": "zpwV0QI64QNFDJTRUM4J",
+        "13": "xGIgsLv0MKKOAUF6JUPx",
+        "14": "wZFPIPQhzy4blRp2IpcJ",
+        "15": "yiF0zCG5gjt1625MvbeE"
+      }
+    }
+
+  },
+    
+  "chef_type": "environment",
+  "json_class": "Chef::Environment"
+}
